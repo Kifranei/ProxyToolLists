@@ -27,6 +27,8 @@ SS 插件 （Google Play 商店链接）
 
 [ShadowsocksD（已停止更新）](https://github.com/Tooruchan/SSD-Android)
 
+[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android)
+
 [Maying（机场定制SSR）](https://github.com/Kifranei/Shadowsocksr-Maying/releases)
 
 ~~rixCloud~~（机场定制SSR，网络上无法找到安装包）
