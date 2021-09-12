@@ -5,6 +5,9 @@
 
 ## Android 平台
     
+已移除机场定制SS/SSR。（Maying，rixCloud）
+
+------
 
 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android)
 
@@ -28,10 +31,6 @@ SS 插件 （Google Play 商店链接）
 [ShadowsocksD（已停止更新）](https://github.com/Tooruchan/SSD-Android)
 
 [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android)
-
-[Maying（机场定制SSR）](https://github.com/Kifranei/Shadowsocksr-Maying/releases)
-
-~~rixCloud~~（机场定制SSR，网络上无法找到安装包）
 
 [v2RayNG](https://github.com/2dust/v2rayNG)
 
