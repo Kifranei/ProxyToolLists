@@ -46,6 +46,8 @@ SS 插件 （Google Play 商店链接）
 
 [Kitsunebi 1.8.0](https://github.com/Kifranei/ProxyToolLists/releases/download/Kitsunebi/Kitsunebi-1.8.0.apk)
 
+[Kitsunebi unofficial](https://github.com/rurirei/Kitsunebi/releases)
+
 [Surfboard 1.2.4](https://m.apkpure.com/surfboard/com.getsurfboard/download/69-APK?from=versions%2Fversion)
 
 [Surfboard冲浪板（重构版）](https://t.me/surfboardnews)
